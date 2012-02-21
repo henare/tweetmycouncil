@@ -23,6 +23,7 @@ C'mon, have at it!
 
 Development
 -----------
+[![Build Status](https://secure.travis-ci.org/henare/tweetmycouncil.png?branch=master)](http://travis-ci.org/henare/tweetmycouncil)
 
 For local development:
 
